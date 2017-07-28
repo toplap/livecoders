@@ -9,7 +9,7 @@ This list was created with the intention of giving a quick-glance over the diver
 * [Sheffield Tidal Club](https://tidalclub.github.io/sheffield)
   - location: Sheffield UK
 
-# Individuals
+# People
 
 * [Alex McLean](http://slab.org/)
   - aliases: yaxu
