@@ -13,7 +13,7 @@ This list was created with the intention of giving a quick-glance over the diver
 
 * [Alex McLean](http://slab.org/)
   - aliases: yaxu
-  - location: Sheffield UK
+  - location: Sheffield, South Yorkshire, UK
   - collaborations: slub, Aalleexx, Canute, xynaaxmue
   - livecoding: tidalcycles, haskell, supercollider
   - twitter: [yaxu](http://twitter.com/yaxu)
