@@ -31,8 +31,8 @@ Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md
   - video: https://youtube.com/kindohm
 
 ## Yaxu
-  - aliases: Alex McLean
   - website: http://slab.org/
+  - aliases: Alex McLean
   - location: Sheffield, South Yorkshire, UK
   - collaborations: slub, Aalleexx, Canute, xynaaxmue
   - livecoding: tidalcycles, haskell, supercollider
