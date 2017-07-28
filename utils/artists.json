@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/toplap/livecoders/master/artists-schema.json",
+    "$schema": "https://raw.githubusercontent.com/toplap/livecoders/master/utils/artists-schema.json#",
     "artists": [
         {
             "name": "Anny",

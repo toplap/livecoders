@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-06/schema#",
-    "$id": "https://raw.githubusercontent.com/toplap/livecoders/master/artists-schema.json",
+    "$id": "https://raw.githubusercontent.com/toplap/livecoders/master/utils/artists-schema.json#",
     "description": "Artists schema",
     "definitions": {
         "freeText": {

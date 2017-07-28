@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-$file = 'README.md';
+$file = dirname(__DIR__) . '/README.md';
 $trimb4 = '# People';
 
 $h = fopen($file, 'r');
@@ -69,7 +69,7 @@ $cleanArtists = array_map(function ($a) {
     return $a;
 }, $allArtists);
 
-$schema = json_decode(file_get_contents('artists-schema.json'), true);
+$schema = json_decode(file_get_contents(__DIR__ . '/artists-schema.json'), true);
 
 $data = [
     '$schema' => $schema['$id'],
