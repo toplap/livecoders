@@ -11,8 +11,8 @@ This list was created with the intention of giving a quick-glance over the diver
 # Individuals
 
 * [Alex McLean](http://slab.org/)
+  - aliases: yaxu
   - location: Sheffield UK
   - collaborations: slub, Aalleexx, Canute, xynaaxmue
   - livecoding: tidalcycles, haskell, supercollider
   - twitter: yaxu
-  - youtube: http://youtube.com/yaxu/
