@@ -17,3 +17,5 @@ This list was created with the intention of giving a quick-glance over the diver
   - collaborations: slub, Aalleexx, Canute, xynaaxmue
   - livecoding: tidalcycles, haskell, supercollider
   - twitter: yaxu
+  - audio: https://slab.org/music/
+  - video: https://youtube.com/yaxu
