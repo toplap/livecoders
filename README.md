@@ -16,6 +16,17 @@ This list was created with the intention of giving a quick-glance over the diver
   - location: Sheffield UK
   - collaborations: slub, Aalleexx, Canute, xynaaxmue
   - livecoding: tidalcycles, haskell, supercollider
-  - twitter: yaxu
+  - twitter: [yaxu](http://twitter.com/yaxu)
   - audio: https://slab.org/music/
   - video: https://youtube.com/yaxu
+
+Template: 
+
+* [Your name](http://yourwebsite/)
+  - aliases:
+  - location: 
+  - collaborations:
+  - livecoding: 
+  - twitter: [user](http://twitter.com/user)
+  - audio: 
+  - video: 
