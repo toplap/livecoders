@@ -22,9 +22,9 @@ Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md
   - audio: https://soundcloud.com/kindohm, https://kindohm.bandcamp.com, https://shop.conditional.club
   - video: https://youtube.com/kindohm
 
-## Alex McLean
+## Yaxu
+  - aliases: Alex McLean
   - website: http://slab.org/
-  - aliases: yaxu
   - location: Sheffield, South Yorkshire, UK
   - collaborations: slub, Aalleexx, Canute, xynaaxmue
   - livecoding: tidalcycles, haskell, supercollider
