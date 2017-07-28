@@ -1,0 +1,70 @@
+{
+    "$schema": "https://raw.githubusercontent.com/toplap/livecoders/master/utils/artists-schema.json#",
+    "artists": [
+        {
+            "name": "Anny",
+            "website": "https://www.anny.audio",
+            "location": "Nottingham, UK",
+            "livecoding": [
+                "tidalcycles",
+                "haskell",
+                "supercollider"
+            ],
+            "twitter": "annyfm",
+            "audio": [
+                "https://annyfm.bandcamp.com"
+            ],
+            "video": [
+                "https://www.anny.audio"
+            ]
+        },
+        {
+            "name": "Mike Hodnick",
+            "website": "http://kindohm.com/",
+            "aliases": [
+                "kindohm"
+            ],
+            "location": "Chaska, Minnesota, USA",
+            "livecoding": [
+                "tidalcycles",
+                "haskell",
+                "supercollider"
+            ],
+            "twitter": "kindohm",
+            "audio": [
+                "https://soundcloud.com/kindohm",
+                "https://kindohm.bandcamp.com",
+                "https://shop.conditional.club"
+            ],
+            "video": [
+                "https://youtube.com/kindohm"
+            ]
+        },
+        {
+            "name": "Yaxu",
+            "aliases": [
+                "Alex McLean"
+            ],
+            "website": "http://slab.org/",
+            "location": "Sheffield, South Yorkshire, UK",
+            "collaborations": [
+                "slub",
+                "Aalleexx",
+                "Canute",
+                "xynaaxmue"
+            ],
+            "livecoding": [
+                "tidalcycles",
+                "haskell",
+                "supercollider"
+            ],
+            "twitter": "yaxu",
+            "audio": [
+                "https://slab.org/music/"
+            ],
+            "video": [
+                "https://youtube.com/yaxu"
+            ]
+        }
+    ]
+}

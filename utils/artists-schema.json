@@ -1,0 +1,62 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$id": "https://raw.githubusercontent.com/toplap/livecoders/master/utils/artists-schema.json#",
+    "description": "Artists schema",
+    "definitions": {
+        "freeText": {
+            "type": "string",
+            "minLength": 1
+        }
+    },
+    "required": ["artists"],
+    "properties": {
+        "artists": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": ["name"],
+                "properties": {
+                    "name": {
+                        "$ref": "#/definitions/freeText"
+                    },
+                    "website": {
+                        "type": "string",
+                        "format": "uri"
+                    },
+                    "location": {
+                        "$ref": "#/definitions/freeText"
+                    },
+                    "collaborations": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/definitions/freeText"
+                        }
+                    },
+                    "livecoding": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/definitions/freeText"
+                        }
+                    },
+                    "twitter": {
+                        "$ref": "#/definitions/freeText"
+                    },
+                    "audio": {
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "format": "uri"
+                        }
+                    },
+                    "video": {
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "format": "uri"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
