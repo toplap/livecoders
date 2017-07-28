@@ -13,6 +13,15 @@ This list was created with the intention of giving a quick-glance over the diver
 
 Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md)! Requires free github sign-up. Please copy the format of an existing entry.
 
+## Mike Hodnick
+  - website: http://kindohm.com/
+  - aliases: kindohm
+  - location: Chaska, Minnesota, USA
+  - livecoding: tidalcycles, haskell, supercollider
+  - twitter: [kindohm](http://twitter.com/kindohm)
+  - audio: https://soundcloud.com/kindohm, https://kindohm.bandcamp.com, https://shop.conditional.club
+  - video: https://youtube.com/kindohm
+
 ## Alex McLean
   - website: http://slab.org/
   - aliases: yaxu
