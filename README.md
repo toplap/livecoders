@@ -6,7 +6,8 @@ This list was created with the intention of giving a quick-glance over the diver
 
 # Local groups/collectives/meetups
 
-* [Sheffield Tidal Club](https://tidalclub.github.io/sheffield), location: Sheffield UK
+* [Sheffield Tidal Club](https://tidalclub.github.io/sheffield)
+  - location: Sheffield UK
 
 # Individuals
 
