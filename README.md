@@ -10,4 +10,5 @@ This list was created with the intention of giving a quick-glance over the diver
 
 # Individuals
 
-* [Alex McLean](http://slab.org/), location: Sheffield UK, collaborations: slub/Aalleexx/Canute/xynaaxmue
+* [Alex McLean](http://slab.org/)
+  - location: Sheffield UK, collaborations: slub/Aalleexx/Canute/xynaaxmue
