@@ -1,4 +1,4 @@
-## All things livecoders
+# All things livecoders
 
 > A semi-curated list of people doing live coding in the performing arts.
 
