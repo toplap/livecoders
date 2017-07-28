@@ -13,6 +13,14 @@ This list was created with the intention of giving a quick-glance over the diver
 
 Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md)! Requires free github sign-up. Please copy the format of an existing entry.
 
+## Anny
+  - website: https://www.anny.audio
+  - location: Nottingham, UK
+  - livecoding: tidalcycles, haskell, supercollider
+  - twitter: [annyfm](https://twitter.com/annyfm)
+  - audio: https://annyfm.bandcamp.com
+  - video: https://www.anny.audio
+
 ## Mike Hodnick
   - website: http://kindohm.com/
   - aliases: kindohm
