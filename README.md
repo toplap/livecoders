@@ -11,17 +11,7 @@ This list was created with the intention of giving a quick-glance over the diver
 
 # People
 
-Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md)! Requires free github sign-up. Here's an empty template to copy: 
-
-* [Your name](http://yourwebsite/)
-  - website: 
-  - aliases:
-  - location: 
-  - collaborations:
-  - livecoding: 
-  - twitter: [user](http://twitter.com/user)
-  - audio: 
-  - video: 
+Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md)! Requires free github sign-up. Please copy the format of an existing entry.
 
 ## Alex McLean
   - website: http://slab.org/
