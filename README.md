@@ -11,7 +11,20 @@ This list was created with the intention of giving a quick-glance over the diver
 
 # People
 
-* [Alex McLean](http://slab.org/)
+Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md)! Requires free github sign-up. Here's an empty template to copy: 
+
+* [Your name](http://yourwebsite/)
+  - website: 
+  - aliases:
+  - location: 
+  - collaborations:
+  - livecoding: 
+  - twitter: [user](http://twitter.com/user)
+  - audio: 
+  - video: 
+
+## Alex McLean
+  - website: http://slab.org/
   - aliases: yaxu
   - location: Sheffield, South Yorkshire, UK
   - collaborations: slub, Aalleexx, Canute, xynaaxmue
@@ -20,13 +33,3 @@ This list was created with the intention of giving a quick-glance over the diver
   - audio: https://slab.org/music/
   - video: https://youtube.com/yaxu
 
-Template: 
-
-* [Your name](http://yourwebsite/)
-  - aliases:
-  - location: 
-  - collaborations:
-  - livecoding: 
-  - twitter: [user](http://twitter.com/user)
-  - audio: 
-  - video: 
