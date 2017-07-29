@@ -21,6 +21,14 @@ Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md
   - audio: https://annyfm.bandcamp.com
   - video: https://www.anny.audio
 
+## bgold
+  - website: https://bgold-cosmos.github.io/
+  - aliases: Ben Gold
+  - location: South St Paul, Minnesota, USA
+  - livecoding: tidalcycles, haskell, supercollider
+  - audio: https://soundcloud.com/bgold-cosmos
+  - video: https://www.youtube.com/channel/UCpn3JDMUCSudVFC2x4uZWyA
+
 ## Mike Hodnick
   - website: http://kindohm.com/
   - aliases: kindohm
