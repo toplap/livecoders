@@ -29,6 +29,15 @@ Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md
   - twitter: [kindohm](http://twitter.com/kindohm)
   - audio: https://soundcloud.com/kindohm, https://kindohm.bandcamp.com, https://shop.conditional.club
   - video: https://youtube.com/kindohm
+  
+## Shawn Lawson
+  - website: http://shawnlawson.com
+  - aliases: Obi-Wan Codenobi
+  - location: Albany, New York, USA
+  - livecoding: OpenGL, GLSL
+  - twitter: [eachTweetCounts](http://twitter.com/eachtweetcounts)
+  - audio: n/a
+  - video: https://vimeo.com/shawnlawson
 
 ## Yaxu
   - website: http://slab.org/
