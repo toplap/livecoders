@@ -29,6 +29,15 @@ Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md
   - audio: https://soundcloud.com/bgold-cosmos
   - video: https://www.youtube.com/channel/UCpn3JDMUCSudVFC2x4uZWyA
 
+## Devine Lu Linvega
+  - website: http://wiki.xxiivv.com/
+  - aliases: Neauoire/Aliceffekt/Alicef
+  - location: Tokyo, Japan
+  - livecoding: [ORCΛ](http://github.com/hundredrabbits/Orca)
+  - twitter: [neauoire](http://twitter.com/neauoire)
+  - audio: http://aliceffekt.bandcamp.com
+  - video: https://www.youtube.com/channel/UCNypeTQAfb2pBA-BLPYK0kg
+
 ## Mike Hodnick
   - website: http://kindohm.com/
   - aliases: kindohm
@@ -56,4 +65,3 @@ Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md
   - twitter: [yaxu](http://twitter.com/yaxu)
   - audio: https://slab.org/music/
   - video: https://youtube.com/yaxu
-
