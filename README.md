@@ -68,3 +68,12 @@ Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md
   - twitter: [yaxu](http://twitter.com/yaxu)
   - audio: https://slab.org/music/
   - video: https://youtube.com/yaxu
+
+## David Pedersen
+  - website: https://twitch.tv/davidpdrsn
+  - aliases: davidpdrsn
+  - location: Copenhagen, Demark
+  - livecoding: Rust
+  - twitter: [davidpdrsn](https://twitter.com/davidpdrsn)
+  - audio: n/a
+  - video: https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ
