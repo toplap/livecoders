@@ -77,3 +77,13 @@ Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md
   - twitter: [davidpdrsn](https://twitter.com/davidpdrsn)
   - audio: n/a
   - video: https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ
+  
+## Mr.Rebop
+  - website: https://mr-rebop-bsociety.blogspot.com/
+  - aliases: Bz Akira Santjago, Radical Ed
+  - location: Rome, Italy
+  - livecoding: SuperCollider
+  - twitter: [MR.REBOP](https://twitter.com/71337_RadicalEd)
+  - audio: https://soundcloud.com/bz-akira-santjago
+  - video: https://www.youtube.com/channel/UCcGsfWOgulpEkopGPNo1y2Q
+
