@@ -87,3 +87,11 @@ Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md
   - audio: https://soundcloud.com/bz-akira-santjago
   - video: https://www.youtube.com/channel/UCcGsfWOgulpEkopGPNo1y2Q
 
+## KittyClock
+  - website: `undefined`
+  - aliases: KC, Vlad
+  - location: Prague, Czech Republic / Odessa, Ukraine
+  - livecoding: FoxDot (SuperCollider)
+  - twitter: [Mutex_Lock](https://twitter.com/Mutex_Lock)
+  - audio: https://soundcloud.com/kitty_clock
+  - video: https://www.youtube.com/channel/UCUNte6jPZy3jpO0uy2wPOpg
